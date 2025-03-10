@@ -18,9 +18,9 @@ The system assigns two types of labels to images:
 ## Dataset
 
 The project uses the **Fashion Product Images Dataset** from Kaggle:
-🔗 [Dataset Link](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
+ [Dataset Link](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Python**
 - **Machine Learning Algorithms**: K-means clustering (for color detection) and KNN (for shape classification)
